@@ -1,0 +1,41 @@
+[33mcommit b424be2057860b339f67b79e2036e630dc440ec8[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-a[m[33m)[m
+Author: Jabez Shiferaw <jabezshiferaw31@gmail.com>
+Date:   Wed Aug 9 09:55:34 2023 +0300
+
+    utils.js with todo
+
+[33mcommit 63c51b9b1633db8d394d932f4dc1ebf066fca414[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: jabez1324 <132306828+jabez1324@users.noreply.github.com>
+Date:   Wed Aug 9 09:49:04 2023 +0300
+
+    added package main
+
+[33mcommit 67fd3a2edd874731f775c909696f3b4b66f28e6a[m
+Author: jabez1324 <132306828+jabez1324@users.noreply.github.com>
+Date:   Wed Aug 9 09:25:24 2023 +0300
+
+    Create README.md
+
+[33mcommit f60d6aa478d2866c5a86389c487dc63701a92acc[m
+Author: Jabez Shiferaw <jabezshiferaw31@gmail.com>
+Date:   Wed Aug 9 09:20:57 2023 +0300
+
+    added main.go withe empty main function
+
+[33mcommit ffb6129e28bf5df354baffc17a529213a5825af8[m
+Author: Jabez Shiferaw <jabezshiferaw31@gmail.com>
+Date:   Wed Aug 9 08:54:17 2023 +0300
+
+    added body{} in main.css
+
+[33mcommit caf3e51d7db67cd943182aef6f0848b7f8763954[m
+Author: Jabez Shiferaw <jabezshiferaw31@gmail.com>
+Date:   Wed Aug 9 08:47:22 2023 +0300
+
+    added console.log
+
+[33mcommit cc88f57f598dd8b9c900ebf277ed298683372478[m
+Author: Jabez Shiferaw <jabezshiferaw31@gmail.com>
+Date:   Wed Aug 9 08:21:24 2023 +0300
+
+    bootstap project
